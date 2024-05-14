@@ -20,16 +20,6 @@ dataSet[dataSetVersion].options = [
       { name: "Wano", key: "s10" },
       { name: "Final Saga", key: "s11" },
     ]
-  },
-  {
-    name: "Filter by Groups",
-    key: "group",
-    tooltip: "Check this to restrict to characters to groups.",
-    checked: false,
-    sub: [ 
-      { name: "Straw Hats", key: "mugiwara" },
-    ];
-
 
 dataSet[dataSetVersion].characterData = [
   {
