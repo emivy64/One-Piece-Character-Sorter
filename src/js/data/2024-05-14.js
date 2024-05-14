@@ -30,7 +30,8 @@ dataSet[dataSetVersion].options = [
       { name: "Straw Hats", key: "mugiwara" },
     ]
   ];
-  
+
+
 dataSet[dataSetVersion].characterData = [
   {
     name: "Luffy",
