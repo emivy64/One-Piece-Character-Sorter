@@ -29,7 +29,6 @@ dataSet[dataSetVersion].options = [
     sub: [ 
       { name: "Straw Hats", key: "mugiwara" },
     ]
-  }
   ];
   
 dataSet[dataSetVersion].characterData = [
