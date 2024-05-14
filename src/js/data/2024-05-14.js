@@ -22,6 +22,14 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
+    name: "Filter by Groups",
+    key: "group",
+    tooltip: "Check this to restrict to characters to groups.",
+    checked: false,
+    sub: [ 
+      { name: "Straw Hats", key: "mugiwara" },
+    ]
+  },
 
 dataSet[dataSetVersion].characterData = [
   {
@@ -29,7 +37,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://imgur.com/KSL747Q",
     opts: {
       series: [ "s1" ],
-      stage: ["st4"]
+      group: ["mugiwara"]
     }
   },
   {
@@ -37,6 +45,6 @@ dataSet[dataSetVersion].characterData = [
     img: "https://i.imgur.com/lVSi63L.png",
     opts: {
       series: [ "s1" ],
-      stage: ["st4"]
+      group: ["mugiwara"]
     }
   },
