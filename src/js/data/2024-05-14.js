@@ -19,30 +19,28 @@ dataSet[dataSetVersion].options = [
       { name: "Whole Cake", key: "s9" },
       { name: "Wano", key: "s10" },
       { name: "Final Saga", key: "s11" },
-    ]
+      ]
+];
 
 dataSet[dataSetVersion].characterData = [
   {
     name: "Luffy",
     img: "https://imgur.com/KSL747Q",
     opts: {
-      series: [ "s1" ],
-      group: ["mugiwara"]
+      series: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11" ]
     }
   },
   {
     name: "Zoro",
     img: "https://i.imgur.com/lVSi63L.png",
     opts: {
-      series: [ "s1" ],
-      group: ["mugiwara"]
+      series: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11" ]
     }
   },
   {
     name: "Nami",
     img: "https://i.imgur.com/0upwMqj.png",
     opts: {
-      series: [ "s1" ],
-      group: ["mugiwara"]
+      series: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11" ]
     }
-  ];
+];
