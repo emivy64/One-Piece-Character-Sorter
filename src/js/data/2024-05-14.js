@@ -28,8 +28,7 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [ 
       { name: "Straw Hats", key: "mugiwara" },
-    ]
-  ];
+    ];
 
 
 dataSet[dataSetVersion].characterData = [
@@ -56,5 +55,4 @@ dataSet[dataSetVersion].characterData = [
       series: [ "s1" ],
       group: ["mugiwara"]
     }
-  },
-  {
+  ];
