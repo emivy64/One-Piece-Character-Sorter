@@ -29,8 +29,9 @@ dataSet[dataSetVersion].options = [
     sub: [ 
       { name: "Straw Hats", key: "mugiwara" },
     ]
-  },
-
+  }
+  ];
+  
 dataSet[dataSetVersion].characterData = [
   {
     name: "Luffy",
@@ -48,3 +49,12 @@ dataSet[dataSetVersion].characterData = [
       group: ["mugiwara"]
     }
   },
+  {
+    name: "Nami",
+    img: "https://i.imgur.com/0upwMqj.png",
+    opts: {
+      series: [ "s1" ],
+      group: ["mugiwara"]
+    }
+  },
+  {
