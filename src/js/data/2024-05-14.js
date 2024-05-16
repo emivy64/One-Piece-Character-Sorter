@@ -32,9 +32,58 @@ dataSet[dataSetVersion].options = [
   dataSet[dataSetVersion].characterData = [
     {
       name: "Monkey D. Luffy",
-      img: "001 - Luffy.jpeg",
+      img: "001Luffy.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Gol D. Roger",
+      img: "002Roger.jpeg",
+      opts: {
+        saga: [ "s1", "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Shanks",
+      img: "003Shanks.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s4", "s6", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Lucky Roux",
+      img: "004Lucky Roux.png",
+      opts: {
+        saga: [ "s1", "s3", "s4", "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Yasopp",
+      img: "005Yasopp.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s4", "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Benn Beckman",
+      img: "006Benn Beckman.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s4", "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Makino",
+      img: "007Makino.jpeg",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
+      name: "Higuma",
+      img: "008Higuma.jpeg",
+      opts: {
+        saga: [ "s1"],
       }
     },
     {
