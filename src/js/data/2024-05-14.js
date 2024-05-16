@@ -34,42 +34,42 @@ dataSet[dataSetVersion].options = [
       name: "Monkey D. Luffy",
       img: "001 - Luffy.jpeg",
       opts: {
-        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Roronoa Zoro",
       img: "013 - Zoro.jpeg",
       opts: {
-        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Nami",
       img: "019 - Nami.png",
       opts: {
-        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Usopp",
       img: "028 - Usopp.jpeg",
       opts: {
-        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Vinsmoke Sanji",
       img: "042 - Sanji.jpeg",
       opts: {
-        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Karoo",
       img: "076 - Karoo.jpeg",
       opts: {
-        saga: [ "s2", "s9", "s11"]
+        saga: [ "s2", "s9", "s11"],
         ani: true
       }
     },
@@ -77,35 +77,35 @@ dataSet[dataSetVersion].options = [
       name: "Nico Robin",
       img: "079 - Nico Robin.png",
       opts: {
-        saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Tony Tony Chopper",
       img: "092 - Chopper.jpeg",
       opts: {
-        saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Franky",
       img: "191 - Franky.jpeg",
       opts: {
-        saga: [ "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Brook",
       img: "222 - Brook.png",
       opts: {
-        saga: [ "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
+        saga: [ "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
       name: "Jinbe",
       img: "291 - Jinbe.png",
       opts: {
-        saga: [ "s6", "s7", "s9", "s10", "s11"]
+        saga: [ "s6", "s7", "s9", "s10", "s11"],
       }
     },
   ]
