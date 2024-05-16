@@ -47,64 +47,64 @@ dataSet[dataSetVersion].options = [
     },
     {
       name: "Roronoa Zoro",
-      img: "https://i.imgur.com/AwQrjIR.png",
+      img: "013 - Zoro.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Nami",
-      img: "https://i.imgur.com/oyXj0nA.png",
+      img: "019 - Nami.png",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Usopp",
-      img: "https://i.imgur.com/nsM3vKF.png",
+      img: "028 - Usopp.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Vinsmoke Sanji",
-      img: "https://i.imgur.com/wYNK5aD.png",
+      img: "042 - Sanji.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Karoo",
-      img: "https://i.imgur.com/wBETMAJ.png",
+      img: "076 - Karoo.jpeg",
       opts: {
         saga: [ "s2", "s9", "s11"]
         ani: true
       }
     },
     {
-      name: "Tony Tony Chopper",
-      img: "https://i.imgur.com/tmzFR3Y.png",
+      name: "Nico Robin",
+      img: "079 - Nico Robin.png",
       opts: {
         saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
-      name: "Nico Robin",
-      img: "https://i.imgur.com/7k9rMaB.png",
+      name: "Tony Tony Chopper",
+      img: "092 - Chopper.jpeg",
       opts: {
         saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Franky",
-      img: "https://i.imgur.com/aKlcPls.png",
+      img: "191 - Franky.jpeg",
       opts: {
         saga: [ "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
     },
     {
       name: "Brook",
-      img: "https://i.imgur.com/dO2e3ap.png",
+      img: "222 - Brook.png",
       opts: {
         saga: [ "s5", "s6", "s7", "s8", "s9", "s10", "s11"]
       }
