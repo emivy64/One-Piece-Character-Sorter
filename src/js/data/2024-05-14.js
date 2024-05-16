@@ -16,8 +16,8 @@ dataSet[dataSetVersion].options = [
         { name: "Marineford", key: "s6" },
         { name: "Fishmen Island", key: "s7" },
         { name: "Dressrosa", key: "s8" },
-        { name: "Whole Cake", key: "s9" }
-        { name: "Wano", key: "s10" }
+        { name: "Whole Cake", key: "s9" },
+        { name: "Wano", key: "s10" },
         { name: "Final Saga", key: "s11" }
       ]
     },
