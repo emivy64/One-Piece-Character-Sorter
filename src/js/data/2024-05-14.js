@@ -22,14 +22,6 @@ dataSet[dataSetVersion].options = [
       ]
     },
     {
-      name: "Filter by Affiliation",
-      key: "group",
-      tooltip: "Check this to restrict to characters to a certain affiliation",
-      checked: false,
-      sub: [ 
-      ]
-    },
-    {
       name: "Remove animals",
       key: "ani",
       tooltip: "Check this if you don't want animals to be listed",
