@@ -87,17 +87,117 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
+      name: "Woop Slap",
+      img: "010WoopSlap.png",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
+      name: "Alvida",
+      img: "011Alvida.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Koby",
+      img: "012Koby.jpeg",
+      opts: {
+        saga: [ "s1", "s4", "s6", "s9", "s11"],
+      }
+    },
+    {
       name: "Roronoa Zoro",
-      img: "013 - Zoro.jpeg",
+      img: "013Zoro.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
+      name: "Rika",
+      img: "014Rika.jpeg",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
+      name: "Helmeppo",
+      img: "015Helmeppo.png",
+      opts: {
+        saga: [ "s1", "s4", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Morgan",
+      img: "016Morgan.jpeg",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
+      name: "Koshirou",
+      img: "017Koshirou.jpeg",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
+      name: "Kuina",
+      img: "018Kuina.jpeg",
+      opts: {
+        saga: [ "s1"],
+      }
+    },
+    {
       name: "Nami",
-      img: "019 - Nami.png",
+      img: "019Nami.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Buggy",
+      img: "020Buggy.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Cabaji",
+      img: "021Cabaji.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Mohji",
+      img: "022Mohji.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Richie",
+      img: "023Richie.jpeg",
+      opts: {
+        saga: [ "s1", "s3", "s6", "s9", "s11"],
+        ani: true
+      }
+    },
+    {
+      name: "Chouchou",
+      img: "024Chouchou.png",
+      opts: {
+        saga: [ "s1"],
+        ani: true
+      }
+    },
+    {
+      name: "Boodle",
+      img: "025Boodle.jpeg",
+      opts: {
+        saga: [ "s1"],
       }
     },
     {
@@ -108,7 +208,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Vinsmoke Sanji",
+      name: "Sanji",
       img: "042 - Sanji.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
