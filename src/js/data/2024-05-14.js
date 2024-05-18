@@ -349,7 +349,7 @@ dataSet[dataSetVersion].options = [
     },
     {
       name: "Dracule Mihawk",
-      img: "042Sanji.jpeg",
+      img: "048Mihawk.jpg",
       opts: {
         saga: [ "s1", "s3", "s6", "s7", "s8", "s10", "s11"],
       }
