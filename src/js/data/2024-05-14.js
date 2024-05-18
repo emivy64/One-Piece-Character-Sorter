@@ -481,32 +481,332 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Dragon",
+      name: "Monkey D. Dragon",
       img: "067Dragon.jpeg",
       opts: {
         saga: [ "s1", "s4", "s6", "s9", "s10", "s11"],
       }
     },
     {
+      name: "Laboon",
+      img: "068Laboon.png",
+      opts: {
+        saga: [ "s2", "s5"],
+        ani: true
+      }
+    },
+    {
+      name: "Crocus",
+      img: "069Crocus.png",
+      opts: {
+        saga: [ "s2", "s10"],
+      }
+    },
+    {
+      name: "Nerfetari Vivi",
+      img: "070Vivi.jpeg",
+      opts: {
+        saga: [ "s2", "s9", "s11"],
+      }
+    },
+    {
+      name: "Mister 9",
+      img: "071Mister9.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Mister 13",
+      img: "072Mister13.png",
+      opts: {
+        saga: [ "s2"],
+        ani: true
+      }
+    },
+    {
+      name: "Miss Friday",
+      img: "073Miss Friday.jpeg",
+      opts: {
+        saga: [ "s2"],
+        ani: true
+      }
+    },
+    {
+      name: "Igaram",
+      img: "074Igaram.png",
+      opts: {
+        saga: [ "s2", "s9"],
+      }
+    },
+    {
+      name: "Miss Monday",
+      img: "075MissMonday.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
       name: "Karoo",
-      img: "076 - Karoo.jpeg",
+      img: "076Karoo.jpeg",
       opts: {
         saga: [ "s2", "s9", "s11"],
         ani: true
       }
     },
     {
+      name: "Gem",
+      img: "077Gem.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Mikita",
+      img: "078Mikita.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
       name: "Nico Robin",
-      img: "079 - Nico Robin.png",
+      img: "079Robin.jpeg",
       opts: {
         saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
       }
     },
     {
-      name: "Tony Tony Chopper",
-      img: "092 - Chopper.jpeg",
+      name: "Broggy",
+      img: "080Broggy.jpeg",
+      opts: {
+        saga: [ "s2", "s11"],
+      }
+    },
+    {
+      name: "Dorry",
+      img: "081Dorry.jpeg",
+      opts: {
+        saga: [ "s2", "s11"],
+      }
+    },
+    {
+      name: "Galdino",
+      img: "082Galdino.png",
+      opts: {
+        saga: [ "s1", "s6", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Marianne",
+      img: "083Marianne.png",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Mister 11",
+      img: "084Mister11.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Chess",
+      img: "085Chess.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Wapol",
+      img: "086Wapol.jpeg",
+      opts: {
+        saga: [ "s2", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Kuromarimo",
+      img: "087Kuromarimo.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Dalton",
+      img: "088Dalton.jpeg",
+      opts: {
+        saga: [ "s2", "s9"],
+      }
+    },
+    {
+      name: "Negikuma Maria",
+      img: "089NegikumaMaria.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Tamachibi",
+      img: "090Tamachibi.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Kureha",
+      img: "091Kureha.jpeg",
+      opts: {
+        saga: [ "s2", "s9"],
+      }
+    },
+    {
+      name: "Chopper",
+      img: "092Chopper.jpeg",
       opts: {
         saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Robson",
+      img: "093Robson.jpeg",
+      opts: {
+        saga: [ "s2"],
+        ani: true
+      }
+    },
+    {
+      name: "Hiriluk",
+      img: "094Hiriluk.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Cobra",
+      img: "095Cobra.jpeg",
+      opts: {
+        saga: [ "s2", "s9", "s11"],
+      }
+    },
+    {
+      name: "Bentham",
+      img: "096Bentham.jpeg",
+      opts: {
+        saga: [ "s2", "s6"],
+      }
+    },
+    {
+      name: "Crocodile",
+      img: "097Crocodile.jpeg",
+      opts: {
+        saga: [ "s2", "s6", "s11"],
+      }
+    },
+    {
+      name: "Portgas D. Ace",
+      img: "098Ace.png",
+      opts: {
+        saga: [ "s2", "s3", "s4", "s6", "s10"],
+      }
+    },
+    {
+      name: "Drophy",
+      img: "099Drophy.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Babe",
+      img: "100Babe.png",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Zala",
+      img: "101Zala.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Daz Bonez",
+      img: "102DazBonez.png",
+      opts: {
+        saga: [ "s2", "s6", "s11"],
+      }
+    },
+    {
+      name: "Banchi",
+      img: "103Banchi.jpeg",
+      opts: {
+        saga: [ "s2"],
+        ani: true
+      }
+    },
+    {
+      name: "Matsuge",
+      img: "104Matsuge.jpeg",
+      opts: {
+        saga: [ "s2"],
+        ani: true
+      }
+    },
+    {
+      name: "Toto",
+      img: "105Toto.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Koza",
+      img: "106Koza.jpeg",
+      opts: {
+        saga: [ "s2", "s9"],
+      }
+    },
+    {
+      name: "Pell",
+      img: "107Pell.jpeg",
+      opts: {
+        saga: [ "s2", "s9", "s11"],
+      }
+    },
+    {
+      name: "Chaka",
+      img: "108Chaka.png",
+      opts: {
+        saga: [ "s2", "s9", "s11"],
+      }
+    },
+    {
+      name: "Miss Father's Day",
+      img: "109MissFathersDay.jpeg",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Mister 7",
+      img: "110Mister7.png",
+      opts: {
+        saga: [ "s2"],
+      }
+    },
+    {
+      name: "Hina",
+      img: "111Hina.jpeg",
+      opts: {
+        saga: [ "s2", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Terracotta",
+      img: "112Terracotta.jpeg",
+      opts: {
+        saga: [ "s2"],
       }
     },
     {
