@@ -810,6 +810,347 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
+      name: "Masira",
+      img: "113Masira.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Van Augur",
+      img: "114VanAugur.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Jesus Burgess",
+      img: "115JesusBurgess.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Bellamy",
+      img: "117Bellamy.jpeg",
+      opts: {
+        saga: [ "s3", "s8"],
+      }
+    },
+    {
+      name: "Sarquiss",
+      img: "118Sarquiss.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Doc Q",
+      img: "119DocQ.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Stronger",
+      img: "120Stronger.png",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s9", "s11"],
+        ani: true
+      }
+    },
+    {
+      name: "Marshall D. Teach",
+      img: "122Blackbeard.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Shoujou",
+      img: "123Shoujou.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Mont Blanc Cricket",
+      img: "124MontBlancCricket.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Saint Jaygarcia Saturn",
+      img: "126Saturn.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s9", "s11"],
+      }
+    },
+    {
+      name: "Saint Marcus Mars",
+      img: "127Mars.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s9", "s11"],
+      }
+    },
+    {
+      name: "Saint Topman Warcury",
+      img: "128Warcury.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s9", "s11"],
+      }
+    },
+    {
+      name: "Saint Ethanboron V. Nusjuro",
+      img: "129Nusjuro.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s9", "s11"],
+      }
+    },
+    {
+      name: "Saint Shepherd Ju Peter",
+      img: "130Peter.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s9", "s11"],
+      }
+    },
+    {
+      name: "Donquixote Doflamingo",
+      img: "131Doflamingo.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Bartholomew Kuma",
+      img: "132Kuma.jpeg",
+      opts: {
+        saga: [ "s3", "s5", "s6", "s7", "s9", "s11"],
+      }
+    },
+    {
+      name: "Tsuru",
+      img: "133Tsuru.png",
+      opts: {
+        saga: [ "s3", "s6", "s8", "s11"],
+      }
+    },
+    {
+      name: "Sengoku",
+      img: "134Sengoku.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s5", "s6", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Laffite",
+      img: "135Laffite.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Rockstar",
+      img: "136Rockstar.jpeg",
+      opts: {
+        saga: [ "s3", "s11"],
+      }
+    },
+    {
+      name: "Marco",
+      img: "137Marco.png",
+      opts: {
+        saga: [ "s4", "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Jozu",
+      img: "138Jozu.jpeg",
+      opts: {
+        saga: [ "s4", "s6", "s10"],
+      }
+    },
+    {
+      name: "Edward Newgate",
+      img: "139Whitebeard.jpeg",
+      opts: {
+        saga: [ "s3", "s4", "s6", "s10"],
+      }
+    },
+    {
+      name: "Wyper",
+      img: "140Wyper.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Gan Fall",
+      img: "141GanFall.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Pierre",
+      img: "142Pierre.jpeg",
+      opts: {
+        saga: [ "s3"],
+        ani: true
+      }
+    },
+    {
+      name: "Amazon",
+      img: "143Amazon.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Conis",
+      img: "144Conis.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Su",
+      img: "145Su.png",
+      opts: {
+        saga: [ "s3"],
+        ani: true
+      }
+    },
+    {
+      name: "Pagaya",
+      img: "146Pagaya.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Ohm",
+      img: "147Ohm.jpeg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Holy",
+      img: "148Holy.jpg",
+      opts: {
+        saga: [ "s3"],
+        ani: true
+      }
+    },
+    {
+      name: "Shura",
+      img: "149Shura.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Fuza",
+      img: "150Fuza.jpg",
+      opts: {
+        saga: [ "s3"],
+        ani: true
+      }
+    },
+    {
+      name: "Satori",
+      img: "151Satori.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Gedatsu",
+      img: "152Gedatsu.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "McKinley",
+      img: "153McKinley.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Aisa",
+      img: "154Aisa.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Laki",
+      img: "155Laki.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Kamakiri",
+      img: "156Kamakiri.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Braham",
+      img: "157Braham.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Genbo",
+      img: "158Genbo.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Yama",
+      img: "159Yama.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Enel",
+      img: "160Enel.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Kalgara",
+      img: "162Kalgara.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Noland",
+      img: "163Noland.jpg",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
+      name: "Mousse",
+      img: "164Mousse.png",
+      opts: {
+        saga: [ "s3"],
+      }
+    },
+    {
       name: "Franky",
       img: "191 - Franky.jpeg",
       opts: {
