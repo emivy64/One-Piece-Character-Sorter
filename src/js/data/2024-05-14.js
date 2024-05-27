@@ -1530,9 +1530,117 @@ dataSet[dataSetVersion].options = [
     },
     {
       name: "Brook",
-      img: "222 - Brook.png",
+      img: "222Brook.png",
       opts: {
         saga: [ "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Hildon",
+      img: "224Hildon.png",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Victoria Cindry",
+      img: "225Cindry.png",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Hogback",
+      img: "226Hogback.png",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Kumashi",
+      img: "228Kumashi.jpg",
+      opts: {
+        saga: [ "s5"],
+        ani: true
+      }
+    },
+    {
+      name: "Absalom",
+      img: "229Absalom.jpg",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Perona",
+      img: "230Perona.jpg",
+      opts: {
+        saga: [ "s5", "s6", "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Shimotsuki Ryuma",
+      img: "231Ryuma.jpg",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "John",
+      img: "232John.jpg",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Charlotte Lola",
+      img: "233Lola.jpg",
+      opts: {
+        saga: [ "s5", "s9"],
+      }
+    },
+    {
+      name: "Inuppe",
+      img: "234Inuppe.jpg",
+      opts: {
+        saga: [ "s5"],
+        ani: true
+      }
+    },
+    {
+      name: "Jigorou",
+      img: "235Jigoro.jpg",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Tararan",
+      img: "236Tararan.jpg",
+      opts: {
+        saga: [ "s5"],
+        ani: true
+      }
+    },
+    {
+      name: "Gecko Moria",
+      img: "237GeckoMoriah.jpg",
+      opts: {
+        saga: [ "s5", "s6", "s10"],
+      }
+    },
+    {
+      name: "Oars",
+      img: "238Oars.jpg",
+      opts: {
+        saga: [ "s5"],
+      }
+    },
+    {
+      name: "Yorki",
+      img: "239Yorki.jpg",
+      opts: {
+        saga: [ "s5"],
       }
     },
     {
