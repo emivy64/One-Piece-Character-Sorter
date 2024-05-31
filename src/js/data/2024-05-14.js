@@ -22,9 +22,9 @@ dataSet[dataSetVersion].options = [
       ]
     },
     {
-      name: "Remove animals",
+      name: "Remove creatures",
       key: "ani",
-      tooltip: "Check this if you don't want animals to be listed",
+      tooltip: "Check this if you don't want animals/creatures to be listed",
       checked: false
     }
   ];
@@ -1472,7 +1472,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Akainu",
+      name: "Sakazuki",
       img: "213Akainu.jpeg",
       opts: {
         saga: [ "s4", "s6", "s8", "s9", "s10", "s11"],
@@ -1644,10 +1644,696 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
+      name: "Camie",
+      img: "240Camie.png",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Pappag",
+      img: "241Pappag.jpg",
+      opts: {
+        saga: [ "s6", "s7"],
+        ani: true
+      }
+    },
+    {
+      name: "Duval",
+      img: "242Duval.png",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Macro",
+      img: "243Macro.jpg",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Saint Shalria",
+      img: "244Shalria.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Saint Rosward",
+      img: "245Rosward.jpg",
+      opts: {
+        saga: [ "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Jean Bart",
+      img: "246JeanBart.jpg",
+      opts: {
+        saga: [ "s6", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Shakky",
+      img: "247Shakky.png",
+      opts: {
+        saga: [ "s6", "s7", "s11"],
+      }
+    },
+    {
+      name: "Capone Bege",
+      img: "248Bege.png",
+      opts: {
+        saga: [ "s6", "s8", "s9"],
+      }
+    },
+    {
+      name: "Jewelry Bonney",
+      img: "249Bonney.jpeg",
+      opts: {
+        saga: [ "s6", "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Basil Hawkins",
+      img: "250Hawkins.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10"],
+      }
+    },
+    {
+      name: "Eustass Kid",
+      img: "251Kid.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10", "s11"],
+      }
+    },
+    {
+      name: "Scratchmen Apoo",
+      img: "252Apoo.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10"],
+      }
+    },
+    {
+      name: "X Drake",
+      img: "253XDrake.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10"],
+      }
+    },
+    {
+      name: "Urouge",
+      img: "255Urouge.jpg",
+      opts: {
+        saga: [ "s6", "s8"],
+      }
+    },
+    {
+      name: "Killer",
+      img: "256Killer.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10", "s11"],
+      }
+    },
+    {
+      name: "Trafalgar D. Water Law",
+      img: "257Law.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Bepo",
+      img: "258Bepo.jpg",
+      opts: {
+        saga: [ "s6", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Saint Charlos",
+      img: "260Charlos.jpeg",
+      opts: {
+        saga: [ "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Heat",
+      img: "261Heat.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10", "s11"],
+      }
+    },
+    {
+      name: "Wire",
+      img: "262Wire.jpg",
+      opts: {
+        saga: [ "s6", "s8", "s10", "s11"],
+      }
+    },
+    {
+      name: "Disco",
+      img: "263Disco.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Stansen",
+      img: "264Stansen.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Silvers Rayleigh",
+      img: "265Rayleigh.jpg",
+      opts: {
+        saga: [ "s6", "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Borsalino",
+      img: "266Kizaru.jpg",
+      opts: {
+        saga: [ "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Sentomaru",
+      img: "267Sentomaru.jpg",
+      opts: {
+        saga: [ "s6", "s7", "s11"],
+      }
+    },
+    {
+      name: "Marguerite",
+      img: "268Marguerite.jpeg",
+      opts: {
+        saga: [ "s6", "s7", "s10"],
+      }
+    },
+    {
+      name: "Sweet Pea",
+      img: "269Sweet Pea.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Aphelandra",
+      img: "270Aphelandra.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Belladonna",
+      img: "271Belladonna.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Kikyo",
+      img: "272Kikyo.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Nerine",
+      img: "273Nerine.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Gloriosa",
+      img: "274Gloriosa.jpg",
+      opts: {
+        saga: [ "s6", "s7", "s11"],
+      }
+    },
+    {
+      name: "Ran",
+      img: "275Ran.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Boa Marigold",
+      img: "277Marigold.jpeg",
+      opts: {
+        saga: [ "s6", "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Boa Hancock",
+      img: "278Hancock.jpeg",
+      opts: {
+        saga: [ "s6", "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Boa Sandersonia",
+      img: "279Sandersonia.png",
+      opts: {
+        saga: [ "s6", "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Enishida",
+      img: "280Enishida.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Bacura",
+      img: "281Bacura.jpeg",
+      opts: {
+        saga: [ "s6"],
+        ani: true
+      }
+    },
+    {
+      name: "Haredas",
+      img: "282Haredas.jpeg",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Kitton",
+      img: "283Kitton.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Heracles",
+      img: "284Heracles.jpg",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Pekkori",
+      img: "285Pekkori.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Shanba",
+      img: "286Shanba.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Comil",
+      img: "287Comil.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Hannyabal",
+      img: "288Hannyabal.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Domino",
+      img: "289Domino.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Magellan",
+      img: "290Magellan.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
       name: "Jinbe",
-      img: "291 - Jinbe.png",
+      img: "291Jinbe.png",
       opts: {
         saga: [ "s6", "s7", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Sphinx",
+      img: "292Sphinx.jpg",
+      opts: {
+        saga: [ "s6", "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Saldeath",
+      img: "293Saldeath.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Sadie",
+      img: "295Sadie.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Minokoala",
+      img: "296Minokoala.jpeg",
+      opts: {
+        saga: [ "s6"],
+        ani: true
+      }
+    },
+    {
+      name: "Minotaurus",
+      img: "297Minotaurus.jpg",
+      opts: {
+        saga: [ "s6"],
+        ani: true
+      }
+    },
+    {
+      name: "Minorhinoceros",
+      img: "298Minorhinoceros.jpeg",
+      opts: {
+        saga: [ "s6"],
+        ani: true
+      }
+    },
+    {
+      name: "Minozebra",
+      img: "299Minozebra.jpg",
+      opts: {
+        saga: [ "s6"],
+        ani: true
+      }
+    },
+    {
+      name: "Inazuma",
+      img: "300Inazuma.png",
+      opts: {
+        saga: [ "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Emporio Ivankov",
+      img: "301Ivankov.jpg",
+      opts: {
+        saga: [ "s6", "s9", "s11"],
+      }
+    },
+    {
+      name: "Shiryu",
+      img: "304Shiryu.png",
+      opts: {
+        saga: [ "s6", "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Lonz",
+      img: "305Lonz.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Lacroix",
+      img: "306Lacroix.jpeg",
+      opts: {
+        saga: [ "s6", "s9"],
+      }
+    },
+    {
+      name: "Portgas D. Rouge",
+      img: "307Rouge.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Doma",
+      img: "308Doma.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "McGuy",
+      img: "309McGuy.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Squard",
+      img: "310Squard.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Blamenco",
+      img: "311Blamenco.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Vista",
+      img: "312Vista.png",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Curiel",
+      img: "313Curiel.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Namur",
+      img: "314Nemur.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Rakuyo",
+      img: "318Rakuyo.jpeg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Blenheim",
+      img: "319Blenheim.jpeg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Atmos",
+      img: "320Atmos.jpeg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Izou",
+      img: "321Izou.jpg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Epoida",
+      img: "322Epoida.png",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Haruta",
+      img: "323Haruta.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Speed Jiru",
+      img: "324SpeedJiru.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Kingdew",
+      img: "325Kingdew.jpeg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Bastille",
+      img: "326Bastille.jpeg",
+      opts: {
+        saga: [ "s6", "s8"],
+      }
+    },
+    {
+      name: "Dalmatian",
+      img: "327Dalmatian.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Little Oars Jr.",
+      img: "328LittleOarsJunior.jpg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Whitey Bay",
+      img: "329WhiteyBay.png",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Fossa",
+      img: "330Fossa.jpeg",
+      opts: {
+        saga: [ "s6", "s10"],
+      }
+    },
+    {
+      name: "Sancrin",
+      img: "331Sancrin.jpeg",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Sanjuan Wolf",
+      img: "334SanjuanWolf.jpeg",
+      opts: {
+        saga: [ "s6", "s11"],
+      }
+    },
+    {
+      name: "Catarina Devon",
+      img: "335Devon.jpeg",
+      opts: {
+        saga: [ "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Vasco Shot",
+      img: "336Vasco.jpeg",
+      opts: {
+        saga: [ "s6", "s11"],
+      }
+    },
+    {
+      name: "Avalo Pizarro",
+      img: "337Avalo.jpeg",
+      opts: {
+        saga: [ "s6", "s10", "s11"],
+      }
+    },
+    {
+      name: "Chadros Higelyges",
+      img: "338Chadros.jpeg",
+      opts: {
+        saga: [ "s6", "s8"],
+      }
+    },
+    {
+      name: "Curly Dadan",
+      img: "339CurlyDadan.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Dogra",
+      img: "340Dogra.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Magra",
+      img: "341Magra.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Porchemy",
+      img: "342Porchemy.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Bluejam",
+      img: "343Bluejam.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Sabo",
+      img: "344Sabo.jpeg",
+      opts: {
+        saga: [ "s6", "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Outlook III",
+      img: "345Outlook.jpeg",
+      opts: {
+        saga: [ "s6"],
+      }
+    },
+    {
+      name: "Sterry",
+      img: "347Sterry.jpeg",
+      opts: {
+        saga: [ "s6", "s9"],
+      }
+    },
+    {
+      name: "Kong",
+      img: "349Kong.jpeg",
+      opts: {
+        saga: [ "s6", "s11"],
+      }
+    },
+    {
+      name: "Scotch",
+      img: "350Scotch.jpeg",
+      opts: {
+        saga: [ "s6"],
       }
     },
   ]
