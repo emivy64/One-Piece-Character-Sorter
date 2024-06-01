@@ -1451,7 +1451,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Saul",
+      name: "Jaguar D. Saul",
       img: "210Saul.jpg",
       opts: {
         saga: [ "s4", "s11"],
@@ -2334,6 +2334,323 @@ dataSet[dataSetVersion].options = [
       img: "350Scotch.jpeg",
       opts: {
         saga: [ "s6"],
+      }
+    },
+    {
+      name: "Demaro Black",
+      img: "351DemaroBlack.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Manjaro",
+      img: "352Manjaro.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Chocolat",
+      img: "353Chocolat.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Mounbultain",
+      img: "354Mounbultain.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Drip",
+      img: "355Drip.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Nora Gitsune",
+      img: "356NoraGitsune.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Cocoa",
+      img: "357Cocoa.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Turco",
+      img: "358Turco.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Albion",
+      img: "359Albion.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Lip Doughty",
+      img: "360LipDoughty.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Caribou",
+      img: "361Caribou.png",
+      opts: {
+        saga: [ "s7", "s10", "s11"],
+      }
+    },
+    {
+      name: "Coribou",
+      img: "362Coribou.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Tibany",
+      img: "363Tibany.jpeg",
+      opts: {
+        saga: [ "s6", "s7"],
+      }
+    },
+    {
+      name: "Surume",
+      img: "364Surume.png",
+      opts: {
+        saga: [ "s7"],
+        ani: true
+      }
+    },
+    {
+      name: "Wadatsumi",
+      img: "365Wadatsumi.jpeg",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Hammond",
+      img: "366Hammond.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Hyouzou",
+      img: "367Hyouzou.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Ishilly",
+      img: "368Ishilly.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Hody Jones",
+      img: "371HodyJones.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Fukaboshi",
+      img: "372Fukaboshi.jpg",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Ryuboshi",
+      img: "373Ryuboshi.png",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Manboshi",
+      img: "374Manboshi.png",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Shyarly",
+      img: "375Shyarly.png",
+      opts: {
+        saga: [ "s7", "s10"],
+      }
+    },
+    {
+      name: "Dosun",
+      img: "376Dosun.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Zeo",
+      img: "377Zeo.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Daruma",
+      img: "378Daruma.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Ikaros Much",
+      img: "379IkarosMuch.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Neptune",
+      img: "380Neptune.jpeg",
+      opts: {
+        saga: [ "s7", "s9", "s10"],
+      }
+    },
+    {
+      name: "Megalo",
+      img: "381Megalo.jpeg",
+      opts: {
+        saga: [ "s7", "s9", "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Gyros",
+      img: "382Gyros.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Shirahoshi",
+      img: "383Shirahoshi.jpeg",
+      opts: {
+        saga: [ "s7", "s9", "s10"],
+      }
+    },
+    {
+      name: "Vander Decken IV",
+      img: "384VanderDecken.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Den",
+      img: "385Den.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Aladine",
+      img: "386Aladine.jpeg",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Otohime",
+      img: "387Otohime.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Fisher Tiger",
+      img: "388FisherTiger.jpeg",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Kadar",
+      img: "389Kadar.png",
+      opts: {
+        saga: [ "s7"],
+      }
+    },
+    {
+      name: "Koala",
+      img: "390Koala.jpeg",
+      opts: {
+        saga: [ "s7", "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Saint Mjosuard",
+      img: "391Mjosguard.jpeg",
+      opts: {
+        saga: [ "s7", "s9", "s11"],
+      }
+    },
+    {
+      name: "Pekoms",
+      img: "392Pekoms.jpeg",
+      opts: {
+        saga: [ "s7", "s8", "s9"],
+      }
+    },
+    {
+      name: "Tamago",
+      img: "393Tamago.jpeg",
+      opts: {
+        saga: [ "s7", "s8", "s9"],
+      }
+    },
+    {
+      name: "Charlotte Linlin",
+      img: "394BigMom.jpg",
+      opts: {
+        saga: [ "s7", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Charlotte Pudding",
+      img: "396Pudding.jpeg",
+      opts: {
+        saga: [ "s7", "s9", "s11"],
+      }
+    },
+    {
+      name: "Nitro",
+      img: "397Nitro.jpeg",
+      opts: {
+        saga: [ "s7", "s9"],
+      }
+    },
+    {
+      name: "Bobbin",
+      img: "398Bobbin.jpeg",
+      opts: {
+        saga: [ "s7", "s9"],
       }
     },
   ]
