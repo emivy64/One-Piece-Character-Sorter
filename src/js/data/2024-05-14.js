@@ -2653,4 +2653,508 @@ dataSet[dataSetVersion].options = [
         saga: [ "s7", "s9"],
       }
     },
+    {
+      name: "Kin'emon",
+      img: "399Kinemon.jpg",
+      opts: {
+        saga: [ "s8", "s9", "s10"],
+      }
+    },
+    {
+      name: "Monet",
+      img: "400Monet.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Mocha",
+      img: "401Mocha.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Sind",
+      img: "402Sind.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Caesar Clown",
+      img: "403Caesar.png",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Vergo",
+      img: "404Vergo.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Yarisugi",
+      img: "405Yarisugi.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Baby 5",
+      img: "406Baby5.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Gladius",
+      img: "407Gladius.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Machvise",
+      img: "408Machvise.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Sugar",
+      img: "409Sugar.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Giolla",
+      img: "410Giolla.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Lao G",
+      img: "411LaoG.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Kozuki Momonosuke",
+      img: "412Momonosuke.jpeg",
+      opts: {
+        saga: [ "s8", "s9", "s10"],
+      }
+    },
+    {
+      name: "Buffalo",
+      img: "413Buffalo.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Trebol",
+      img: "414Trebol.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Diamante",
+      img: "415Diamante.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Issho",
+      img: "416Fujitora.jpeg",
+      opts: {
+        saga: [ "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Kyros",
+      img: "417Kyros.png",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Gatz",
+      img: "418Gatz.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Senor Pink",
+      img: "419SenorPink.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Dellinger",
+      img: "420Dellinger.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Viola",
+      img: "421Viola.jpeg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Don Sai",
+      img: "422Sai.jpeg",
+      opts: {
+        saga: [ "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Don Chinjao",
+      img: "423Chinjao.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Boo",
+      img: "424Boo.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Bobby Funk",
+      img: "425BobbyFunk.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Kelly Funk",
+      img: "426KellyFunk.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Dagama",
+      img: "427Dagama.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Elizabello II",
+      img: "428ElizabelloII.jpeg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Suleiman",
+      img: "429Suleiman.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Abdullah",
+      img: "430Abdullah.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Jeet",
+      img: "431Jeet.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Orlumbus",
+      img: "432Orlumbus.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Cavendish",
+      img: "433Cavendish.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Rebecca",
+      img: "434Rebecca.jpg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Maynard",
+      img: "435Maynard.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Gambia",
+      img: "436Gambia.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Guernica",
+      img: "437Guernica.png",
+      opts: {
+        saga: [ "s8", "s10"],
+      }
+    },
+    {
+      name: "Bartolomeo",
+      img: "438Bartolomeo.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Ideo",
+      img: "439Ideo.png",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Hajrudin",
+      img: "440Hajrudin.png",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Blue Gilly",
+      img: "447BlueGilly.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Riku Doldo III",
+      img: "449RikuDoldo.jpg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Hack",
+      img: "450Hack.jpeg",
+      opts: {
+        saga: [ "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Leo",
+      img: "451Leo.jpeg",
+      opts: {
+        saga: [ "s8", "s9", "s11"],
+      }
+    },
+    {
+      name: "Bomba",
+      img: "452Bomba.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Rampo",
+      img: "453Rampo.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Kabu",
+      img: "454Kabu.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Gancho",
+      img: "455Gancho.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Flapper",
+      img: "456Flapper.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Wicca",
+      img: "457Wicca.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Grabar",
+      img: "458Grabar.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Bian",
+      img: "459Bian.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Inhel",
+      img: "460Inhel.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Cotton",
+      img: "461Cotton.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Scarlett",
+      img: "462Scarlett.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Pica",
+      img: "463Pica.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Chao",
+      img: "464Chao.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Kurozumi Kanjuro",
+      img: "465Kanjuro.jpg",
+      opts: {
+        saga: [ "s8", "s9", "s10"],
+      }
+    },
+    {
+      name: "Mauji",
+      img: "466Mauji.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Kyuin",
+      img: "467Kyuin.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Mansherry",
+      img: "468Mansherry.jpg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Donquixote Corazon",
+      img: "469Corazon.jpg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Donquixote Homing",
+      img: "470Homing.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Diez Barrels",
+      img: "471DiezBarrels.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Russian",
+      img: "472Russian.jpeg",
+      opts: {
+        saga: [ "s8"],
+      }
+    },
+    {
+      name: "Sheepshead",
+      img: "474Sheepshead.jpeg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Ginrummy",
+      img: "475Ginrummy.jpg",
+      opts: {
+        saga: [ "s8", "s9"],
+      }
+    },
+    {
+      name: "Tristan",
+      img: "476Tristan.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Kaidou",
+      img: "477Kaidou.jpg",
+      opts: {
+        saga: [ "s8", "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Jack",
+      img: "478Jack.png",
+      opts: {
+        saga: [ "s8", "s9", "s10"],
+      }
+    },
   ]
