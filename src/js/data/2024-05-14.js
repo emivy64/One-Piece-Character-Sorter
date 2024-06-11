@@ -306,7 +306,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Sanji",
+      name: "Vinsmoke Sanji",
       img: "042Sanji.jpeg",
       opts: {
         saga: [ "s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].options = [
       name: "Dracule Mihawk",
       img: "048Mihawk.jpg",
       opts: {
-        saga: [ "s1", "s3", "s6", "s7", "s8", "s10", "s11"],
+        saga: [ "s1", "s3", "s6", "s7", "s10", "s11"],
       }
     },
     {
@@ -660,7 +660,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Chopper",
+      name: "Tony Tony Chopper",
       img: "092Chopper.jpeg",
       opts: {
         saga: [ "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11"],
@@ -2640,13 +2640,6 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Nitro",
-      img: "397Nitro.jpeg",
-      opts: {
-        saga: [ "s7", "s9"],
-      }
-    },
-    {
       name: "Bobbin",
       img: "398Bobbin.jpeg",
       opts: {
@@ -3095,7 +3088,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Donquixote Corazon",
+      name: "Donquixote Rosinante",
       img: "469Corazon.jpg",
       opts: {
         saga: [ "s8"],
@@ -3155,6 +3148,567 @@ dataSet[dataSetVersion].options = [
       img: "478Jack.png",
       opts: {
         saga: [ "s8", "s9", "s10"],
+      }
+    },
+    {
+      name: "Edward Weevil",
+      img: "479Weevil.jpg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Miss Buckingham",
+      img: "480Bakkin.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Zunesha",
+      img: "481Zunesha.png",
+      opts: {
+        saga: [ "s9", "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Bariete",
+      img: "482Bariete.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Carrot",
+      img: "483Carrot.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Wanda",
+      img: "484Wanda.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Roddy",
+      img: "485Roddy.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Blackback",
+      img: "486Blackback.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Yomo",
+      img: "487Yomo.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Miyagi",
+      img: "488Miyagi.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Monjii",
+      img: "489Monji.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Shishillian",
+      img: "490Shishillian.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Inuarashi",
+      img: "491Inuarashi.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Concelot",
+      img: "492Concelot.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Giovanni",
+      img: "493Giovanni.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Nekomamushi",
+      img: "494Nekomamushi.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Pedro",
+      img: "495Pedro.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Keith",
+      img: "496Keith.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Vito",
+      img: "497Vito.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Milky",
+      img: "498Milky.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Raizo",
+      img: "499Raizo.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Sarie Nantokanette",
+      img: "500Sarie.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Kinderella",
+      img: "502Kinderella.png",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Gotti",
+      img: "504Gotti.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Chiffon",
+      img: "505Chiffon.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Vinsmoke Yonji",
+      img: "506Yonji.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Vinsmoke Reiju",
+      img: "507Reiju.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Amande",
+      img: "510Amande.jpeg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Diesel",
+      img: "511Diesel.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Randolph",
+      img: "512Randolph.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Prometheus",
+      img: "513Prometheus.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Zeus",
+      img: "514Zeus.jpg",
+      opts: {
+        saga: [ "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Vinsmoke Ichiji",
+      img: "515Ichiji.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Vinsmoke Niji",
+      img: "516Niji.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Moscato",
+      img: "517Moscato.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Mont d'Or",
+      img: "518MontDOr.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Galette",
+      img: "519Galette.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Opera",
+      img: "520Opera.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Praline",
+      img: "521Praline.png",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Pound",
+      img: "522Pound.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Brûlée",
+      img: "523Brulee.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Vinsmoke Judge",
+      img: "524Judge.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Capone Pez",
+      img: "525Pez.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Perospero",
+      img: "526Perospero.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Cracker",
+      img: "527Cracker.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Kingbaum",
+      img: "528Kingbaum.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Cosette",
+      img: "529Cosette.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Vinsmoke Sora",
+      img: "530Sora.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Smoothie",
+      img: "539Smoothie.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Nusstorte",
+      img: "540Nusstorte.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Streusen",
+      img: "543Streusen.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Du Feld",
+      img: "544DuFeld.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Morgans",
+      img: "545Morgans.jpg",
+      opts: {
+        saga: [ "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Stussy",
+      img: "546Stussy.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Drug Peclo",
+      img: "547DrugPeclo.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Giberson",
+      img: "548Giberson.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Katakuri",
+      img: "551Katakuri.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Compote",
+      img: "552Compote.jpg",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Daifuku",
+      img: "556Daifuku.png",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Charlotte Oven",
+      img: "557Oven.png",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Carmel",
+      img: "562Carmel.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Gerd",
+      img: "563Gerd.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Jorul",
+      img: "564Jorul.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Jarul",
+      img: "565Jarul.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Bavarois",
+      img: "567Bavarois.jpg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Charlotte Flampe",
+      img: "568Flampe.png",
+      opts: {
+        saga: [ "s9", "s10"],
+      }
+    },
+    {
+      name: "Peachbeard",
+      img: "577Peachbeard.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Moda",
+      img: "578Moda.jpg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Morley",
+      img: "579Morley.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Belo Betty",
+      img: "580BeloBetty.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Lindbergh",
+      img: "581Lindbergh.jpg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Karasu",
+      img: "582Karasu.jpg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Aramaki",
+      img: "586Aramaki.jpeg",
+      opts: {
+        saga: [ "s9", "s10", "s11"],
+      }
+    },
+    {
+      name: "Ahiru",
+      img: "587Ahiru.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Gambo",
+      img: "588Gambo.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Ushiano",
+      img: "589Ushiano.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Imu",
+      img: "596Imu.jpeg",
+      opts: {
+        saga: [ "s9", "s11"],
+      }
+    },
+    {
+      name: "Gion",
+      img: "597Gion.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Tokikake",
+      img: "598Tokikake.jpeg",
+      opts: {
+        saga: [ "s9"],
+      }
+    },
+    {
+      name: "Connie",
+      img: "599Connie.jpg",
+      opts: {
+        saga: [ "s9", "s11"],
       }
     },
   ]
