@@ -593,7 +593,7 @@ dataSet[dataSetVersion].options = [
       name: "Galdino",
       img: "082Galdino.png",
       opts: {
-        saga: [ "s1", "s6", "s9", "s10", "s11"],
+        saga: [ "s2", "s6", "s9", "s10", "s11"],
       }
     },
     {
