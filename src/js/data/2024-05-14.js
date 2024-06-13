@@ -3938,7 +3938,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Jigoku",
+      name: "Jigoku Benten",
       img: "633Jigoku.jpeg",
       opts: {
         saga: [ "s10"],
