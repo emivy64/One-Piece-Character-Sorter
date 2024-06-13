@@ -1465,7 +1465,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Olvia",
+      name: "Nico Olvia",
       img: "212Olvia.png",
       opts: {
         saga: [ "s4"],
