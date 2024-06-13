@@ -1,4 +1,4 @@
-dataSetVersion = "2024-06-13"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-05-15"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -593,7 +593,7 @@ dataSet[dataSetVersion].options = [
       name: "Galdino",
       img: "082Galdino.png",
       opts: {
-        saga: [ "s1", "s6", "s9", "s10", "s11"],
+        saga: [ "s2", "s6", "s9", "s10", "s11"],
       }
     },
     {
@@ -1137,7 +1137,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Noland",
+      name: "Mont Blanc Noland",
       img: "163Noland.jpg",
       opts: {
         saga: [ "s3"],
@@ -1465,7 +1465,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Olvia",
+      name: "Nico Olvia",
       img: "212Olvia.png",
       opts: {
         saga: [ "s4"],
@@ -3938,7 +3938,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Jigoku",
+      name: "Jigoku Benten",
       img: "633Jigoku.jpeg",
       opts: {
         saga: [ "s10"],
