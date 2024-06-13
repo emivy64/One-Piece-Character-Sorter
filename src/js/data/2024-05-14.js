@@ -3711,4 +3711,525 @@ dataSet[dataSetVersion].options = [
         saga: [ "s9", "s11"],
       }
     },
+    {
+      name: "Kozuki Hiyori",
+      img: "601Hiyori.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Komachiyo",
+      img: "602Komachiyo.jpeg",
+      opts: {
+        saga: [ "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Hihimaru",
+      img: "603Hihimaru.jpeg",
+      opts: {
+        saga: [ "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Kurozumi Tama",
+      img: "604Otama.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kozuki Sukiyaki",
+      img: "605Sukiyaki.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Tsurujo",
+      img: "606Tsurujo.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kikunojo",
+      img: "607Kiku.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Urashima",
+      img: "608Urashima.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Batman",
+      img: "609Batman.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Gazelleman",
+      img: "610Gazelleman.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Mouseman",
+      img: "611Mouseman.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Holed'em",
+      img: "612Holdem.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Speed",
+      img: "613Speed.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Sarahebi",
+      img: "614Sarahebi.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Denjiro",
+      img: "615Denjiro.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Ashura Doji",
+      img: "616Ashura.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Shinobu",
+      img: "617Shinobu.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "King",
+      img: "618King.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "King",
+      img: "619Queen.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Dobon",
+      img: "620Dobon.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kojuro",
+      img: "621Kojuro.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hyogoro",
+      img: "622Hyogoro.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Toko",
+      img: "623Toko.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kurozumi Orochi",
+      img: "624Orochi.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Yasuie",
+      img: "625Yasuie.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Page One",
+      img: "626PageOne.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Fukurokuju",
+      img: "627Fukurokuju.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Daikoku",
+      img: "628Daikoku.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hanzo",
+      img: "629Hanzo.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Tsugaru Umi",
+      img: "630TsugaruUmi.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Some",
+      img: "631Some.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Chome",
+      img: "632Chome.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Jigoku",
+      img: "633Jigoku.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kazekage",
+      img: "634Kazekage.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Sarutobi",
+      img: "635Sarutobi.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Alpacaman",
+      img: "636Alpacaman.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Daifugo",
+      img: "637Daifugo.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Babanuki",
+      img: "638Babanuki.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Solitaire",
+      img: "639Solitaire.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Onimaru",
+      img: "640Onimaru.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Madilloman",
+      img: "641Madilloman.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kawamatsu",
+      img: "642Kawamatsu.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hotei",
+      img: "643Hotei.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Chuji",
+      img: "644Chuji.jpeg",
+      opts: {
+        saga: [ "s10"],
+        ani: true
+      }
+    },
+    {
+      name: "Omasa",
+      img: "645Omasa.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Tsunagoro",
+      img: "646Tsunagoro.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Cho",
+      img: "647Cho.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Yatappe",
+      img: "648Yatappe.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Shimotsuki Ushimaru",
+      img: "649Ushimaru.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kozuki Oden",
+      img: "650Oden.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Banzaburo",
+      img: "651Banzaburo.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Amatsuki Toki",
+      img: "652Toki.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kurozumi Semimaru",
+      img: "653Semimaru.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Kurozumi Higurashi",
+      img: "654Higurashi.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hitsugisukan",
+      img: "655Hitsugisukon.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Sunbell",
+      img: "656Sunbell.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Scopper Gaban",
+      img: "657ScopperGaban.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Nozdon",
+      img: "658Nozdon.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Mizerka",
+      img: "659Mizerka.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Ulti",
+      img: "660Ulti.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Who's Who",
+      img: "661WhosWho.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Blackmaria",
+      img: "662BlackMaria.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Yatappe",
+      img: "663Sasaki.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Bao Huang",
+      img: "664BaoHuang.png",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Yamato",
+      img: "665Yamato.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hatcha",
+      img: "666Hatcha.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Briscola",
+      img: "667Briscola.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Fourtricks",
+      img: "668Fourtricks.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hamlet",
+      img: "669Hamlet.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Poker",
+      img: "670Poker.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Hera",
+      img: "671Hera.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Shimotsuki Kozaburo",
+      img: "672Kozaburo.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Tensei",
+      img: "673Tensei.jpeg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
+    {
+      name: "Uta",
+      img: "674Uta.jpg",
+      opts: {
+        saga: [ "s10"],
+      }
+    },
   ]
