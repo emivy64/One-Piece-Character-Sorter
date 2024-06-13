@@ -4149,7 +4149,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Yatappe",
+      name: "Sasaki",
       img: "663Sasaki.jpeg",
       opts: {
         saga: [ "s10"],
